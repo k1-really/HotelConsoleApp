@@ -1,11 +1,27 @@
-﻿  main.cpp
-D:\Institute\7semester\appAndDbDeveloping\lr1\lr1\main.cpp(233,17): warning C4102: std: неиспользованная метка
-D:\Institute\7semester\appAndDbDeveloping\lr1\lr1\main.cpp(446,17): warning C4101: schedule_id: неиспользованная локальная переменная
-D:\Institute\7semester\appAndDbDeveloping\lr1\lr1\main.cpp(608,17): warning C4101: wait: неиспользованная локальная переменная
-D:\Institute\7semester\appAndDbDeveloping\lr1\lr1\main.cpp(649,17): warning C4101: wait: неиспользованная локальная переменная
-D:\Institute\7semester\appAndDbDeveloping\lr1\lr1\main.cpp(817,17): warning C4101: wait: неиспользованная локальная переменная
-D:\Institute\7semester\appAndDbDeveloping\lr1\lr1\main.cpp(838,17): warning C4101: people_count: неиспользованная локальная переменная
-D:\Institute\7semester\appAndDbDeveloping\lr1\lr1\main.cpp(984,17): warning C4101: wait: неиспользованная локальная переменная
-D:\Institute\7semester\appAndDbDeveloping\lr1\lr1\main.cpp(1329,17): warning C4101: wait: неиспользованная локальная переменная
-D:\Institute\7semester\appAndDbDeveloping\lr1\lr1\main.cpp(1399,17): warning C4101: wait: неиспользованная локальная переменная
+﻿  Address.cpp
+  AddressMapper.cpp
+  Maid.cpp
+  MaidMapper.cpp
+  Mapper.cpp
+  Migrations.cpp
+  PassportMapper.cpp
+  RoomMapper.cpp
+  Schedule.cpp
+  ScheduleMapper.cpp
+  Service.cpp
+  ServiceGuestMapper.cpp
+  ServiceMapper.cpp
+  SqlConnection.cpp
+D:\Institute\7semester\appAndDbDeveloping\lr1\lr1\SqlConnection.cpp(90,17): warning C4101: string_len: неиспользованная локальная переменная
+  main.cpp
+D:\Institute\7semester\appAndDbDeveloping\lr1\lr1\main.cpp(228,17): warning C4102: std: неиспользованная метка
+D:\Institute\7semester\appAndDbDeveloping\lr1\lr1\main.cpp(425,17): warning C4101: schedule_id: неиспользованная локальная переменная
+D:\Institute\7semester\appAndDbDeveloping\lr1\lr1\main.cpp(582,17): warning C4101: wait: неиспользованная локальная переменная
+D:\Institute\7semester\appAndDbDeveloping\lr1\lr1\main.cpp(621,17): warning C4101: wait: неиспользованная локальная переменная
+D:\Institute\7semester\appAndDbDeveloping\lr1\lr1\main.cpp(782,17): warning C4101: wait: неиспользованная локальная переменная
+D:\Institute\7semester\appAndDbDeveloping\lr1\lr1\main.cpp(803,17): warning C4101: people_count: неиспользованная локальная переменная
+D:\Institute\7semester\appAndDbDeveloping\lr1\lr1\main.cpp(946,17): warning C4101: wait: неиспользованная локальная переменная
+D:\Institute\7semester\appAndDbDeveloping\lr1\lr1\main.cpp(1259,17): warning C4101: wait: неиспользованная локальная переменная
+D:\Institute\7semester\appAndDbDeveloping\lr1\lr1\main.cpp(1306,17): warning C4101: wait: неиспользованная локальная переменная
+  Создание кода...
   lr1.vcxproj -> D:\Institute\7semester\appAndDbDeveloping\lr1\x64\Debug\lr1.exe
